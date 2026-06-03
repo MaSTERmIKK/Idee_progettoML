@@ -1,0 +1,12 @@
+Progetto per gestire un catalogo film
+Creare un sistema che analizzi un dataset di film e permetta di classificarli per genere, anno, durata, valutazione e popolarità, con una possibile funzione di consiglio film simili.
+Progetto per prevedere il prezzo di un’auto usata
+Creare un modello che, partendo da marca, anno, chilometri, carburante e cambio, stimi il prezzo corretto di vendita di un’auto.
+Progetto per analizzare il rischio di abbandono clienti
+Creare un sistema che identifichi quali clienti potrebbero smettere di usare un servizio, ad esempio telefonia, streaming o e-commerce.
+Progetto per classificare recensioni positive e negative
+Creare un modello che analizzi testi di recensioni e riconosca automaticamente se il commento è positivo, negativo o neutro.
+Progetto per organizzare prodotti di un e-commerce
+Creare un sistema che raggruppi prodotti simili in categorie usando prezzo, descrizione, marca, valutazione e numero di acquisti.
+Progetto per prevedere il rendimento degli studenti
+Creare un modello che analizzi dati come ore di studio, assenze, voti precedenti e attività extra per stimare il rischio di insufficienza o il voto finale.
